@@ -1,6 +1,5 @@
 // Name: Mwahhid Majeed
-// Section: Tuesday/Thursday
-// I have neither given nor received unauthorized aid on this program.
+// Description: Creating a Naive Bayes Classifier to filter emails into spam and non-spam categories.
 
 import java.io.InputStream;
 import java.util.*;
